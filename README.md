@@ -1,6 +1,4 @@
 # JOB_PORTAL
-Below is **only the exact content** you should add inside your **README.md** for this SQL Job Portal project.
-It is clean, concise, and ready to paste into GitHub.
 
 ---
 
@@ -74,12 +72,4 @@ This SQL project is designed for:
 * Using sample data for portfolio or academic assignments
 * Integrating into a full-stack Job Portal application
 
----
 
-If you want, I can also prepare:
-
-* A short GitHub project description
-* An ER diagram
-* A professional write-up for your resume
-
-Would you like any of these?
